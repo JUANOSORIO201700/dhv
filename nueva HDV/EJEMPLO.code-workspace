@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\primer sitio web"
+		},
+		{
+			"path": "..\\technew"
+		},
+		{
+			"path": "..\\hoja de vida"
+		},
+		{
+			"path": "..\\aprendiendo css"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "technew"
+	}
+}
